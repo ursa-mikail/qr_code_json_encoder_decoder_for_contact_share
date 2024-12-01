@@ -10,4 +10,4 @@ Generate a QR code containing contact information in JSON format and decode it b
 - **QR Code Generation**: Generates a QR code that contains the JSON contact data.
 - **QR Code Scanning**: Reads the QR code and decodes the JSON back into a dictionary.
 
-![qr-code](qr-code.png | width=100)
+<img src="qr-code.png" alt="qr-code" width="300" height="200">
